@@ -1,0 +1,14 @@
+{
+  "codes": [
+    {
+      "code": "ZUMBEE100",
+      "coins": 100,
+      "gems": 0
+    },
+    {
+      "code": "GEMPOWER",
+      "coins": 0,
+      "gems": 50
+    }
+  ]
+}
